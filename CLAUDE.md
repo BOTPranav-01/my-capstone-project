@@ -4,6 +4,14 @@
 
 My Capstone Project
 
+## Project Structure
+
+Keep source code inside `src/`.
+
+Keep configuration files at the project root.
+
+Do not commit secrets or environment files.
+
 ## Tech Stack
 
 - Node.js
