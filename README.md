@@ -2,7 +2,8 @@
 
 ## Overview
 
-A capstone project built using modern web development tools.
+This project is my capstone application for practicing modern
+software development, Git workflows, and AI-assisted development.
 
 ## Tech Stack
 
