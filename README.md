@@ -2,8 +2,11 @@
 
 ## Overview
 
-This project is my capstone application for practicing modern
-software development, Git workflows, and AI-assisted development.
+A command-line task manager built with Node.js that lets users create,
+list, and complete tasks from the terminal. Data is stored locally as JSON.
+
+This project serves as a capstone for practicing modern software development
+workflows, including Git branching, code review, and AI-assisted development.
 
 ## Tech Stack
 
